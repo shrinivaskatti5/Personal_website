@@ -1,3 +1,3 @@
 # personalWebSite
 
- Simple sample webSite is ready.
+ Simple sample website is ready.
