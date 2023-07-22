@@ -1,3 +1,3 @@
 # personalWebSite
 
-Your WebSite.
+ Simple sample webSite is ready.
