@@ -1,3 +1,3 @@
 # personalWebSite
 
-Your WebSite.
+Your website is ready to use.
