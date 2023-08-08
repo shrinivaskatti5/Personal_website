@@ -10,8 +10,8 @@ Welcome to the Sample Website! This is a brief description of your website's pur
 
 To explore Sample_Website, follow these steps:
 
-1. Clone this repository: `git clone [repository URL]`
-2. Navigate to the project directory: `cd [project directory]`
+1. Clone this repository: `git clone https://github.com/shrinivaskatti5/Personal_website.git`
+2. Navigate to the project directory: `cd Personal_website`
 3. Make changes as required in the code. (Ex:Name, Adress, Contact number etc)
 4. Once you deploy the code you are good to go with Sample_Website.
 
